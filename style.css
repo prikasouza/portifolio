@@ -1,0 +1,63 @@
+*{
+  margin: 0px;
+  padding: 0px;
+}
+
+
+body{
+  background: #E8E8EA; 
+  background-image: url("../image/fundo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover 
+ 
+  
+    
+}
+.content{
+  
+}
+.nome { 
+  font-family: 'Dancing Script', cursive;
+  font-size: 40px;
+  margin-top: 170px;
+  margin-left: 150px;
+  
+}
+
+.nome p{
+  margin-left: 90px;
+}
+
+.nav {
+  
+  font-family: 'Nunito', sans-serif;
+  font-size: 25px;
+  padding: 5px;
+  margin: 25px;
+  margin-left: 150px;
+ 
+    
+}
+
+.nav ul{
+  list-style: none;
+
+}
+.nav ul li { display: inline; 
+margin: 20px;
+}
+
+
+.nav img{
+ height: 30px;
+ width: 30px;
+ padding: 5px;
+
+}
+.nav a {
+  text-decoration: none;
+  color: black;
+  
+  
+}
+
